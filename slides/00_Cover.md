@@ -1,11 +1,2 @@
-# Streamlit
+<img src="https://github.com/eKerney/streamlitTalk/blob/main/images/streamlit.jpg?raw=true" alt="Streamlit Landing Page" width="700">
 
-<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
-
-This text is <strong><em>really important</em></strong>.
-
-This web app illustrates the use of [streamlit_book](<https://streamlit-book.readthedocs.io/en/latest/>) for teaching and learning. In this particular web app, we will explain motion trajectories.
-
-<img src="<https://github.com/sebastiandres/streamlit_happy_birds/blob/main/images/happybird.png?raw=true>" alt="happy Birds" width="700">
-
-Happy Birds uses streamlit, streamlit book, numpy and matplotlib libraries.
