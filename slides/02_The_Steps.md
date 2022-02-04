@@ -1,5 +1,5 @@
 # Let's Create a Streamlit App
-- #### python3 -m venv streamApp (WSL2)
+- #### python3 -m venv streamApp 
 - #### source streamApp/bin/activate
 - #### pip install streamlit
 - #### Install other libaries as needed...

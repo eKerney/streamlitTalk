@@ -10,4 +10,8 @@ stb.to_do_list
 
 #### Embrace Python scripting    
 #### Streamlit apps are really just scripts that run from top to bottom
-#### There’s no hidden state
+#### There’s no hidden state   
+
+   
+<img src="https://github.com/eKerney/streamlitTalk/blob/main/images/Zeroth_stellation_of_icosahedron.png?raw=true" alt="By The original uploader was Tomruen at English Wikipedia. - Tomruen using the Bulatov applet.CC BY-SA 3.0" width="700">
+
