@@ -6,8 +6,6 @@
 - #### Create your app/script
 - #### Create a gitHub repo and commit code
 - #### Deploy to Streamlit Cloud, Heroku, or other server
-- #### Sit back and chill while people dig your killer app
+- #### Sit back and relax while everyone digs your killer app
 
-code = '''def hello():
-     print("Hello, Streamlit!")'''
-st.code(code, language='python')
+
